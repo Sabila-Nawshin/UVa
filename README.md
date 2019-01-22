@@ -1,2 +1,1 @@
-# UVa
-UVa Online Judge Solved problems
+# UVa Online Judge Solved problems
